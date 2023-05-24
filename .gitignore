@@ -2,3 +2,5 @@
 franchise_scrape.iml
 /scrape_default
 Screenshot*
+__pycache__/
+open_pprint.py
